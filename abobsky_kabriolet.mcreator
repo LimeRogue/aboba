@@ -1,0 +1,149 @@
+{
+  "mod_elements": [
+    {
+      "name": "Abobskii",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abobskii",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/abobskykabriolet/item/AbobskiiItem.java",
+          "src/main/resources/assets/abobsky_kabriolet/models/item/abobskii.json"
+        ]
+      }
+    },
+    {
+      "name": "Zanieslo",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zanieslo",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/abobskykabriolet/item/ZaniesloItem.java",
+          "src/main/resources/assets/abobsky_kabriolet/models/item/zanieslo.json"
+        ]
+      }
+    },
+    {
+      "name": "Salo",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salo",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/abobsky_kabriolet/models/item/salo.json",
+          "src/main/java/net/mcreator/abobskykabriolet/item/SaloItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Kabrioletmod",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kabrioletmod",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Piechien",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piechien",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/abobsky_kabriolet/models/item/piechien.json",
+          "src/main/java/net/mcreator/abobskykabriolet/item/PiechienItem.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "fonk",
+      "files": [
+        "what_is_it_-_brawl_stars_phonk_du_ho"
+      ],
+      "category": "music",
+      "subtitle": "музыка"
+    },
+    {
+      "name": "zaneslol",
+      "files": [
+        "zanieslo_kuda-to_zanieslo_mienia_online-audio-converter.com"
+      ],
+      "category": "neutral",
+      "subtitle": "занесло"
+    },
+    {
+      "name": "yakhochupiva",
+      "files": [
+        "sam"
+      ],
+      "category": "player",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "ru_ru": {
+      "subtitles.yakhochupiva": "",
+      "item.abobsky_kabriolet.abobskii": "Abobskii kabriolet",
+      "item.abobsky_kabriolet.abobskii.desc": "долбит нормально",
+      "item_group.abobsky_kabriolet.kabrioletmod": "Кабриолет мод",
+      "item.abobsky_kabriolet.zanieslo": "Занесло",
+      "subtitles.zaneslol": "занесло",
+      "item.abobsky_kabriolet.zanieslo.desc": "в ебеня какие то",
+      "subtitles.fonk": "музыка",
+      "item.abobsky_kabriolet.piechien": "Piechien",
+      "item.abobsky_kabriolet.salo": "Сало"
+    },
+    "en_us": {
+      "subtitles.yakhochupiva": "",
+      "item.abobsky_kabriolet.abobskii": "Abobskii kabriolet",
+      "item.abobsky_kabriolet.abobskii.desc": "долбит нормально",
+      "item_group.abobsky_kabriolet.kabrioletmod": "Кабриолет мод",
+      "item.abobsky_kabriolet.zanieslo": "Занесло",
+      "subtitles.zaneslol": "занесло",
+      "item.abobsky_kabriolet.zanieslo.desc": "в ебеня какие то",
+      "subtitles.fonk": "музыка",
+      "item.abobsky_kabriolet.piechien": "Piechien",
+      "item.abobsky_kabriolet.salo": "Сало"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "abobsky_kabriolet",
+    "modName": "abobsky_kabriolet",
+    "version": "1.0.0",
+    "author": "LimeRogue, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.abobskykabriolet",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}

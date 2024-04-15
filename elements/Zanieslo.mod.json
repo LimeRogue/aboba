@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Занесло",
+    "rarity": "COMMON",
+    "texture": "zaneslo",
+    "description": "в ебеня какие то",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:zaneslol"
+    },
+    "lengthInTicks": 5760,
+    "analogOutput": 0
+  }
+}

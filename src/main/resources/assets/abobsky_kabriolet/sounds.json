@@ -1,0 +1,28 @@
+{
+  "fonk": {
+    "subtitle": "subtitles.fonk",
+    "sounds": [
+      {
+        "name": "abobsky_kabriolet:what_is_it_-_brawl_stars_phonk_du_ho",
+        "stream": true
+      }
+    ]
+  },
+  "zaneslol": {
+    "subtitle": "subtitles.zaneslol",
+    "sounds": [
+      {
+        "name": "abobsky_kabriolet:zanieslo_kuda-to_zanieslo_mienia_online-audio-converter.com",
+        "stream": false
+      }
+    ]
+  },
+  "yakhochupiva": {
+    "sounds": [
+      {
+        "name": "abobsky_kabriolet:sam",
+        "stream": false
+      }
+    ]
+  }
+}
